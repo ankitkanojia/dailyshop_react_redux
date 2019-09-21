@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './component/header';
-import Main from './containers/main';
+import Footer from './component/footer';
 
 function App() {
   return (
@@ -1654,6 +1654,8 @@ function App() {
         </div>
       </section>
       {/*  / Subscribe section */}
+
+      <Footer />
 
       {/*  Login Modal */}
       <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
