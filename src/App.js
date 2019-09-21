@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
        <Header />
-        <main className="container">
+        {/* <main className="container">
           <Main />
-        </main>
+        </main> */}
     </div>
   );
 }
