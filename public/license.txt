@@ -1,0 +1,76 @@
+--------------------------------------------
+Template License 
+--------------------------------------------
+
+Template Name : Daily Shop
+Author : MarkUps
+Author URL : http://www.markups.io/
+License URL : http://www.markups.io/license   
+Note : Before using we recommend check our template license page.
+
+--------------------------------------------
+Resources License and Credits : 
+--------------------------------------------
+
+Images:
+	Website URL : https://pixabay.com/
+	License : Creative Commons CC0
+	License URL : https://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+	Website URL : https://unsplash.com/
+	License : Creative Commons CC0
+	License URL : https://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+	Website URL : http://pngimg.com/
+	License : Free
+	License URL : http://pngimg.com/about
+
+	Note: All the images used in this item owned by the respective authors & you might need permission for using those on live sites from authors.
+
+Bootstrap :
+	Website URL : http://getbootstrap.com/
+	License : The MIT License
+	License URL : https://github.com/twbs/bootstrap/blob/master/LICENSE
+
+Sequence slider:
+	Website URL : http://www.sequencejs.com/themes/modern-slide-in/
+	License : GPLv3
+	License URL : https://opensource.org/licenses/gpl-3.0.html
+
+Magnify Slider :
+	Website URL : http://www.jqueryscript.net/zoom/jQuery-Plugins-For-Simple-Image-Gallery-with-Magnifying-Glass-Effect.html
+	License : The MIT License
+	License URL : https://opensource.org/licenses/MIT
+
+Slick Slider :
+	Website URL : http://kenwheeler.github.io/slick/
+	License : The MIT License
+	License URL : https://github.com/kenwheeler/slick/blob/master/LICENSE
+
+Nouislider :
+	Website URL : http://refreshless.com/nouislider/
+	License : WTFPL
+	License URL : http://www.wtfpl.net/about/
+
+Preloader :
+	Website URL : http://www.wpfreeware.com/tutorial/awesome-css3-preloaders-for-inspirations/
+	License : Creative Commons CC0
+	License URL : https://creativecommons.org/choose/zero/
+
+
+Font Awesome :
+	Website URL : http://fortawesome.github.io/Font-Awesome/
+	License : open source 
+	License URL : http://fortawesome.github.io/Font-Awesome/license/
+
+
+Google Fonts : 
+	Lato Font:
+	Website URL : https://www.google.com/fonts/specimen/Lato
+	License : SIL Open Font License, version 1.1
+	License URL : http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+
+	Raleway Font:
+	Website URL :https://www.google.com/fonts/specimen/Raleway
+	License : SIL Open Font License, version 1.1
+	License URL : http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
