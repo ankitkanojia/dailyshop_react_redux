@@ -5,6 +5,7 @@ import Menu from './component/menu';
 import Slider from './component/slider';
 import Promo from './component/promo';
 import Product from './component/product';
+import Banner from './component/banner';
 
 function App() {
   return (
@@ -19,21 +20,8 @@ function App() {
 
       <Product />
 
-      {/*  banner section */}
-      <section id="aa-banner">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12">
-              <div class="row">
-                <div class="aa-banner-area">
-                  <a href="#"><img src="img/fashion-banner.jpg" alt="fashion banner img" /></a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      {/*  popular section */}
+      <Banner />
+
       <section id="aa-popular-category">
         <div class="container">
           <div class="row">
