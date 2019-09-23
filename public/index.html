@@ -3,13 +3,11 @@
   <head>
     <meta charset="utf-8" />
     <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
     <meta
-      name="description"
-      content="Web site created using create-react-app"
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <link rel="apple-touch-icon" href="logo192.png" />
+    <meta name="theme-color" content="#000000" />
     <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
@@ -24,45 +22,20 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>Daily Shop | Home</title>
+    <title>Daily Shop</title>
     
-    <!-- Font awesome -->
-    <link href="css/font-awesome.css" rel="stylesheet">
-    <!-- Bootstrap -->
-    <link href="css/bootstrap.css" rel="stylesheet">   
-    <!-- SmartMenus jQuery Bootstrap Addon CSS -->
-    <link href="css/jquery.smartmenus.bootstrap.css" rel="stylesheet">
-    <!-- Product view slider -->
-    <link rel="stylesheet" type="text/css" href="css/jquery.simpleLens.css">    
-    <!-- slick slider -->
-    <link rel="stylesheet" type="text/css" href="css/slick.css">
-    <!-- price picker slider -->
-    <link rel="stylesheet" type="text/css" href="css/nouislider.css">
-    <!-- Theme color -->
-    <link id="switcher" href="css/theme-color/default-theme.css" rel="stylesheet">
-    <!-- <link id="switcher" href="css/theme-color/bridge-theme.css" rel="stylesheet"> -->
-    <!-- Top Slider CSS -->
-    <link href="css/sequence-theme.modern-slide-in.css" rel="stylesheet" media="all">
-
-    <!-- Main style sheet -->
-    <link href="css/style.css" rel="stylesheet">    
-
-    <!-- Google Font -->
+    <link href="Content/css/font-awesome.css" rel="stylesheet">
+    <link href="Content/css/bootstrap.css" rel="stylesheet">   
+     <link href='Content/scss/spinner.scss' rel='stylesheet' type='text/css'>
+    <link href="Content/css/jquery.smartmenus.bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="Content/css/jquery.simpleLens.css">    
+    <link rel="stylesheet" type="text/css" href="Content/css/slick.css">
+    <link rel="stylesheet" type="text/css" href="Content/css/nouislider.css">
+    <link id="switcher" href="Content/css/theme-color/default-theme.css" rel="stylesheet">
+    <link href="Content/css/sequence-theme.modern-slide-in.css" rel="stylesheet" media="all">
+    <link href="Content/css/style.css" rel="stylesheet">    
     <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
-    
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="js/bootstrap.js"></script>  
-    <script type="text/javascript" src="js/jquery.smartmenus.js"></script>
-    <script type="text/javascript" src="js/jquery.smartmenus.bootstrap.js"></script>  
-    <script src="js/sequence.js"></script>
-    <script src="js/sequence-theme.modern-slide-in.js"></script>  
-    <script type="text/javascript" src="js/jquery.simpleGallery.js"></script>
-    <script type="text/javascript" src="js/jquery.simpleLens.js"></script>
-    <script type="text/javascript" src="js/slick.js"></script>
-    <script type="text/javascript" src="js/nouislider.js"></script>
-    <script src="js/custom.js"></script> 
-  
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -77,5 +50,83 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+  <script type="text/javascript" src="Content/js/jquery.min.js"></script>
+  <script type="text/javascript" src="Content/js/bootstrap.js"></script>  
+  <script type="text/javascript" src="Content/js/jquery.smartmenus.js"></script>
+  <script type="text/javascript" src="Content/js/jquery.smartmenus.bootstrap.js"></script>  
+  <script type="text/javascript" src="Content/js/jquery.simpleGallery.js"></script>
+  <script type="text/javascript" src="Content/js/jquery.simpleLens.js"></script>
+  <script type="text/javascript" src="Content/js/slick.js"></script>
+  <script type="text/javascript" src="Content/js/nouislider.js"></script>
+  <script type="text/javascript" src="Content/js/custom.js"></script> 
+  <script type="text/javascript" src="Content/js/sequence.js"></script>
+  <script type="text/javascript">
+    function test(){
+      $('#demo-1 .simpleLens-thumbnails-container img').simpleGallery({
+            loading_image: 'demo/images/loading.gif'
+        });
+    
+        $('#demo-1 .simpleLens-big-image').simpleLens({
+            loading_image: 'demo/images/loading.gif'
+        });
+    }
+
+    function initializeTestimonials() {
+      if ($('.aa-testimonial-slider').hasClass('slick-initialized')) {
+        $('.aa-testimonial-slider').slick('unslick');
+      }
+      $('.aa-testimonial-slider').slick({
+        dots: true,
+        infinite: true,
+        arrows: false,
+        speed: 300,
+        slidesToShow: 1,
+        adaptiveHeight: true
+      });
+      }
+
+    function initializeView() {
+        $("#list-catg").click(function (e) {
+          e.preventDefault(e);
+          $(".aa-product-catg").addClass("list");
+        });
+        $("#grid-catg").click(function (e) {
+          e.preventDefault(e);
+          $(".aa-product-catg").removeClass("list");
+        });
+      }
+
+    function priceSlider(startValue, endValuue){
+      var skipSlider = document.getElementById('skipstep');
+        noUiSlider.create(skipSlider, {
+            range: {
+                'min': startValue,
+                '10%': 10,
+                '20%': 20,
+                '30%': 30,
+                '40%': 40,
+                '50%': 50,
+                '60%': 60,
+                '70%': 70,
+                '80%': 80,
+                '90%': 90,
+                'max': endValuue
+            },
+            snap: true,
+            connect: true,
+            start: [startValue, endValuue]
+        });
+        // for value print
+        var skipValues = [
+          document.getElementById('skip-value-lower'),
+          document.getElementById('skip-value-upper')
+        ];
+
+        skipSlider.noUiSlider.on('update', function( values, handle ) {
+          skipValues[handle].innerHTML = values[handle];
+        });
+    }
+  </script>
+  <!-- <script type="text/javascript" src="Content/js/sequence-theme.modern-slide-in.js"></script>   -->
   </body>
 </html>
