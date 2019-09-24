@@ -5,6 +5,7 @@ import Wishlist from '../Pages/Wishlist';
 import Checkout from '../Pages/Checkout';
 import ProductDetails from '../Pages/ProductDetails';
 import Products from '../Pages/Products';
+import Blog from '../Pages/Blog';
 
 const Main = () => (
         <Switch>
@@ -13,6 +14,7 @@ const Main = () => (
             <Route exact path='/checkout' component={Checkout} />
             <Route exact path='/productdetails' component={ProductDetails} />
             <Route exact path='/products' component={Products} />
+            <Route exact path='/blog' component={Blog} />
         </Switch>
 )
 

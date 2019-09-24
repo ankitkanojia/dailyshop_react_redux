@@ -463,17 +463,24 @@ class Home extends Component {
                         </div>
                     </div>
                 </section>
-                <section id="aa-subscribe">
-                    <div className="container">
-                        <div className="row">
-                            <div className="col-md-12">
-                                <div className="aa-subscribe-area">
-                                    <h3>Subscribe our newsletter </h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex, velit!</p>
-                                    <form action="" className="aa-subscribe-form">
-                                        <input type="email" name="" id="" placeholder="Enter your Email" />
-                                        <input type="submit" value="Subscribe" />
-                                    </form>
+                <section id="aa-client-brand">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="aa-client-brand-area">
+                                    <ul class="aa-client-brand-slider">
+                                        <li><a href="#"><img src="content/img/client-brand-java.png" alt="java img" /></a></li>
+                                        <li><a href="#"><img src="content/img/client-brand-jquery.png" alt="jquery img" /></a></li>
+                                        <li><a href="#"><img src="content/img/client-brand-html5.png" alt="html5 img" /></a></li>
+                                        <li><a href="#"><img src="content/img/client-brand-css3.png" alt="css3 img" /></a></li>
+                                        <li><a href="#"><img src="content/img/client-brand-wordpress.png" alt="wordPress img" /></a></li>
+                                        <li><a href="#"><img src="content/img/client-brand-joomla.png" alt="joomla img" /></a></li>
+                                        <li><a href="#"><img src="content/img/client-brand-java.png" alt="java img" /></a></li>
+                                        <li><a href="#"><img src="content/img/client-brand-jquery.png" alt="jquery img" /></a></li>
+                                        <li><a href="#"><img src="content/img/client-brand-html5.png" alt="html5 img" /></a></li>
+                                        <li><a href="#"><img src="content/img/client-brand-css3.png" alt="css3 img" /></a></li>
+                                        <li><a href="#"><img src="content/img/client-brand-wordpress.png" alt="wordPress img" /></a></li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>

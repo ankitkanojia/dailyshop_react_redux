@@ -488,33 +488,11 @@ export const Menus =   [
   },
   {
     "title": "Blog ",
-    "url": "/products",
+    "url": "/blog",
     "id": 8,
     "orderno": 8,
     "parentid": 0,
-    "submenu": [
-      {
-        "title": "Blog Style 1",
-        "url": "/products",
-        "id": 62,
-        "orderno": 0,
-        "parentid": 8
-      },
-      {
-        "title": "Blog Style 2",
-        "url": "/products",
-        "id": 63,
-        "orderno": 0,
-        "parentid": 8
-      },
-      {
-        "title": "Blog Single",
-        "url": "/products",
-        "id": 64,
-        "orderno": 0,
-        "parentid": 8
-      }
-    ]
+    "submenu": []
   },
   {
     "title": "Contact",
