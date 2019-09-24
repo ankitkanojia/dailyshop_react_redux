@@ -45,6 +45,7 @@ class Header extends Component {
                                                 <li><a href="javascript:void(0)">&nbsp;</a></li>
                                                 <li className="hidden-xs"><Link to="/wishlist">Wishlist</Link></li>
                                                 <li className="hidden-xs"><Link to="/checkout">My Cart / Checkout</Link></li>
+                                                <li className="hidden-xs"><Link to="/signup">Login / Sign-Up</Link></li>
                                             </ul>
                                         </div>
                                     </div>

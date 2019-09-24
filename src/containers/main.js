@@ -7,6 +7,7 @@ import ProductDetails from '../Pages/ProductDetails';
 import Products from '../Pages/Products';
 import Blog from '../Pages/Blog';
 import BlogDetail from '../Pages/BlogDetail';
+import Registration from '../Pages/Registration';
 
 const Main = () => (
         <Switch>
@@ -17,6 +18,7 @@ const Main = () => (
             <Route exact path='/products' component={Products} />
             <Route exact path='/blog' component={Blog} />
             <Route exact path='/blogdetail' component={BlogDetail} />
+            <Route exact path='/signup' component={Registration} />
         </Switch>
 )
 
