@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 
 class Blog extends Component {
     render() {
@@ -30,7 +31,7 @@ class Blog extends Component {
                                                     <div class="col-md-4 col-sm-4">
                                                         <article class="aa-latest-blog-single">
                                                             <figure class="aa-blog-img">
-                                                                <a href="#"><img alt="img" src="content/img/promo-banner-1.jpg" /></a>
+                                                                <Link to={{ pathname: '/blogdetail' }}><img alt="img" src="content/img/promo-banner-1.jpg" /></Link>
                                                                 <figcaption class="aa-blog-img-caption">
                                                                     <span href="#"><i class="fa fa-eye"></i>5K</span>
                                                                     <a href="#"><i class="fa fa-thumbs-o-up"></i>426</a>
@@ -39,7 +40,7 @@ class Blog extends Component {
                                                                 </figcaption>
                                                             </figure>
                                                             <div class="aa-blog-info">
-                                                                <h3 class="aa-blog-title"><a href="#">Lorem ipsum dolor sit amet</a></h3>
+                                                                <h3 class="aa-blog-title"><Link to={{ pathname: '/blogdetail' }}>Lorem ipsum dolor sit amet</Link></h3>
                                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.</p>
                                                                 <a class="aa-read-mor-btn" href="#">Read more <span class="fa fa-long-arrow-right"></span></a>
                                                             </div>
