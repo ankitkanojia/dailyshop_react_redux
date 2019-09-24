@@ -4,7 +4,7 @@ class Footer extends Component {
     render() {
         return (
             <React.Fragment>
-                {window.location.pathname !== "/signup" &&
+                {window.location.pathname !== "/signup"  &&
                     <section id="aa-subscribe">
                         <div className="container">
                             <div className="row">
