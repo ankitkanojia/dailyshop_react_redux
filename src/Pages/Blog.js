@@ -56,7 +56,7 @@ class Blog extends Component {
                                                     })}
                                                 </div>
                                             </div>
-                                            <div class="aa-blog-archive-pagination">
+                                            {/* <div class="aa-blog-archive-pagination">
                                                 <nav>
                                                     <ul class="pagination">
                                                         <li>
@@ -76,7 +76,7 @@ class Blog extends Component {
                                                         </li>
                                                     </ul>
                                                 </nav>
-                                            </div>
+                                            </div> */}
                                         </div>
                                         <div class="col-md-3">
                                             <aside class="aa-blog-sidebar">
