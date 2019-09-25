@@ -436,16 +436,13 @@ class Home extends Component {
                                     <h2>LATEST BLOG</h2>
                                     <div className="row">
                                         {
-                                            this.props.blogs.map(p => {
+                                            this.props.blogs.slice(0, 3).map(p => {
                                                 return (<div className="col-md-4 col-sm-4" key={p.id}>
                                                     <div className="aa-latest-blog-single">
                                                         <figure className="aa-blog-img">
-                                                            <a href="javascript:void(0)"><img src={p.imageUrl} alt="img" /></a>
+                                                            <a href="javascript:void(0)"><img src={"Content/img/" + p.imageName} alt="img" /></a>
                                                             <figcaption className="aa-blog-img-caption">
-                                                                <span href="javascript:void(0)"><i className="fa fa-eye"></i>{p.viewer}</span>
-                                                                <a href="javascript:void(0)"><i className="fa fa-thumbs-o-up"></i>{p.likes}</a>
-                                                                <a href="javascript:void(0)"><i className="fa fa-comment-o"></i>{p.comments}</a>
-                                                                <span href="javascript:void(0)"><i className="fa fa-clock-o"></i>{p.date}</span>
+                                                                <span href="javascript:void(0)"><i className="fa fa-clock-o"></i>{new Date(p.createDate).toLocaleString("en-US",{ year: 'numeric', month: 'short', day: 'numeric'})}</span>
                                                             </figcaption>
                                                         </figure>
                                                         <div className="aa-blog-info">

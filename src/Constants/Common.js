@@ -1,4 +1,4 @@
-export const Menus =   [
+export const Menus = [
   {
     "title": "Home",
     "url": "/",
@@ -516,13 +516,13 @@ export const ProductCatalog = [
     "tag": "SALE!",
     "id": 1,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "T-Shirt",
@@ -535,13 +535,13 @@ export const ProductCatalog = [
     "tag": "Sold Out!",
     "id": 2,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-20T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-20T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Polo T-Shirt",
@@ -554,13 +554,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 3,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-05-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-05-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Polo T-Shirt",
@@ -573,13 +573,13 @@ export const ProductCatalog = [
     "tag": "HOT!",
     "id": 4,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-09-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-09-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "T-Shirt",
@@ -592,13 +592,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 5,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Polo T-Shirt",
@@ -611,13 +611,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 6,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Polo T-Shirt",
@@ -629,13 +629,13 @@ export const ProductCatalog = [
     "type": "men",
     "tag": "SALE!",
     "id": 7,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "T-Shirt",
@@ -648,13 +648,13 @@ export const ProductCatalog = [
     "tag": "Sold Out!",
     "id": 8,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "This is Title",
@@ -667,13 +667,13 @@ export const ProductCatalog = [
     "tag": "SALE!",
     "id": 9,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -686,13 +686,13 @@ export const ProductCatalog = [
     "tag": "HOT!",
     "id": 10,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -705,13 +705,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 11,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -724,13 +724,13 @@ export const ProductCatalog = [
     "tag": "Sold Out!",
     "id": 12,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -743,13 +743,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 13,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -762,13 +762,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 14,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -781,13 +781,13 @@ export const ProductCatalog = [
     "tag": "SALE!",
     "id": 15,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -800,13 +800,13 @@ export const ProductCatalog = [
     "tag": "Sold Out!",
     "id": 16,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "This is Title",
@@ -819,13 +819,13 @@ export const ProductCatalog = [
     "tag": "SALE!",
     "id": 17,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -838,13 +838,13 @@ export const ProductCatalog = [
     "tag": "Sold Out!",
     "id": 18,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -857,13 +857,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 19,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -876,13 +876,13 @@ export const ProductCatalog = [
     "tag": "HOT!",
     "id": 20,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -895,13 +895,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 21,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -914,13 +914,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 22,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -933,13 +933,13 @@ export const ProductCatalog = [
     "tag": "SALE!",
     "id": 23,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -952,13 +952,13 @@ export const ProductCatalog = [
     "tag": "Sold Out!",
     "id": 24,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "This is Title",
@@ -971,13 +971,13 @@ export const ProductCatalog = [
     "tag": "SALE!",
     "id": 25,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -990,13 +990,13 @@ export const ProductCatalog = [
     "tag": "Sold Out!",
     "id": 26,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -1009,13 +1009,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 27,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -1028,13 +1028,13 @@ export const ProductCatalog = [
     "tag": "HOT!",
     "id": 28,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -1047,13 +1047,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 29,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -1066,13 +1066,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 30,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -1085,13 +1085,13 @@ export const ProductCatalog = [
     "tag": "SALE!",
     "id": 31,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -1104,13 +1104,13 @@ export const ProductCatalog = [
     "tag": "Sold Out!",
     "id": 32,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Polo T-Shirt",
@@ -1123,13 +1123,13 @@ export const ProductCatalog = [
     "tag": "SALE!",
     "id": 33,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -1142,13 +1142,13 @@ export const ProductCatalog = [
     "tag": "Sold Out!",
     "id": 34,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "T-Shirt",
@@ -1161,13 +1161,13 @@ export const ProductCatalog = [
     "tag": "Sold Out!",
     "id": 35,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -1180,13 +1180,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 36,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Polo T-Shirt",
@@ -1199,13 +1199,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 37,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -1218,13 +1218,13 @@ export const ProductCatalog = [
     "tag": "HOT!",
     "id": 38,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Polo T-Shirt",
@@ -1237,13 +1237,13 @@ export const ProductCatalog = [
     "tag": "HOT!",
     "id": 39,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "This is Title",
@@ -1256,13 +1256,13 @@ export const ProductCatalog = [
     "tag": "SALE!",
     "id": 40,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Polo T-Shirt",
@@ -1275,13 +1275,13 @@ export const ProductCatalog = [
     "tag": "SALE!",
     "id": 41,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -1294,13 +1294,13 @@ export const ProductCatalog = [
     "tag": "Sold Out!",
     "id": 42,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "T-Shirt",
@@ -1313,13 +1313,13 @@ export const ProductCatalog = [
     "tag": "Sold Out!",
     "id": 43,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -1332,13 +1332,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 44,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Polo T-Shirt",
@@ -1351,13 +1351,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 45,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -1370,13 +1370,13 @@ export const ProductCatalog = [
     "tag": "HOT!",
     "id": 46,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Polo T-Shirt",
@@ -1389,13 +1389,13 @@ export const ProductCatalog = [
     "tag": "HOT!",
     "id": 47,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "This is Title",
@@ -1408,13 +1408,13 @@ export const ProductCatalog = [
     "tag": "SALE!",
     "id": 48,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Polo T-Shirt",
@@ -1427,13 +1427,13 @@ export const ProductCatalog = [
     "tag": "SALE!",
     "id": 49,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -1446,13 +1446,13 @@ export const ProductCatalog = [
     "tag": "Sold Out!",
     "id": 50,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "T-Shirt",
@@ -1465,13 +1465,13 @@ export const ProductCatalog = [
     "tag": "Sold Out!",
     "id": 51,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -1484,13 +1484,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 52,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Polo T-Shirt",
@@ -1503,13 +1503,13 @@ export const ProductCatalog = [
     "tag": "",
     "id": 53,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Lorem ipsum doller",
@@ -1522,13 +1522,13 @@ export const ProductCatalog = [
     "tag": "HOT!",
     "id": 54,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "Polo T-Shirt",
@@ -1541,13 +1541,13 @@ export const ProductCatalog = [
     "tag": "HOT!",
     "id": 55,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   },
   {
     "title": "This is Title",
@@ -1560,46 +1560,13 @@ export const ProductCatalog = [
     "tag": "SALE!",
     "id": 56,
     "count": 1,
-    "sizes":  ["S", "M", "L", "XL"],
-    "createdDate" : "2012-04-23T18:25:43.511Z",
-    "categoryid":  4,
-    "productImages": ["common/shirt1.png","common/shirt2.png","common/shirt3.png"],
+    "sizes": ["S", "M", "L", "XL"],
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "categoryid": 4,
+    "productImages": ["common/shirt1.png", "common/shirt2.png", "common/shirt3.png"],
     "status": "In stock",
     "category": "Polo T-Shirt",
-    "productDescription" : " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
-  }
-];
-
-export const Blogs = [
-  {
-    "title": "Lorem ipsum dolor sit amet",
-    "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
-    "viewer": "5K",
-    "likes": "426",
-    "comments": "20",
-    "date": "June 26, 2016",
-    "imageUrl": "Content/img/promo-banner-1.jpg",
-    "id": 1
-  },
-  {
-    "title": "Lorem ipsum dolor sit amet",
-    "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
-    "viewer": "5K",
-    "likes": "426",
-    "comments": "20",
-    "date": "June 26, 2016",
-    "imageUrl": "Content/img/promo-banner-3.jpg",
-    "id": 2
-  },
-  {
-    "title": "Lorem ipsum dolor sit amet",
-    "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
-    "viewer": "5K",
-    "likes": "426",
-    "comments": "20",
-    "date": "June 26, 2016",
-    "imageUrl": "Content/img/promo-banner-1.jpg",
-    "id": 3
+    "productDescription": " <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><ul><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, culpa!</li><li>Lorem ipsum dolor sit amet.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor qui eius esse!</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, modi!</li></ul><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, iusto earum voluptates autem esse molestiae ipsam, atque quam amet similique ducimus aliquid voluptate perferendis, distinctio!</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea, voluptas! Aliquam facere quas cumque rerum dolore impedit, dicta ducimus repellat dignissimos, fugiat, minima quaerat necessitatibus? Optio adipisci ab, obcaecati, porro unde accusantium facilis repudiandae.</p>"
   }
 ];
 
@@ -1675,71 +1642,71 @@ export const BlogDetails = [
     "title": "Lorem ipsum dolor sit amet",
     "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
     "imageName": "promo-banner-1.jpg",
-    "createDate": new Date(2019,08,03),
-    "tags" : "Fashion, ECommerce, Cloths",
-    "Category" : "Men"
+    "createDate": "03/08/2019",
+    "tags": "Fashion, ECommerce, Cloths",
+    "Category": "Men"
   },
   {
     "id": 2,
     "title": "Lorem ipsum dolor sit amet",
     "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
     "imageName": "promo-banner-2.jpg",
-    "createDate": new Date(2019,08,01),
-    "tags" : "Fashion, ECommerce, Cloths",
-    "Category" : "Men"
+    "createDate": "01/08/2019",
+    "tags": "Fashion, ECommerce, Cloths",
+    "Category": "Men"
   },
   {
     "id": 3,
     "title": "Lorem ipsum dolor sit amet",
     "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
     "imageName": "promo-banner-3.jpg",
-    "createDate": new Date(2019,08,05),
-    "tags" : "Fashion, ECommerce, Cloths",
-    "Category" : "Women"
+    "createDate": "05/08/2019",
+    "tags": "Fashion, ECommerce, Cloths",
+    "Category": "Women"
   },
   {
     "id": 4,
     "title": "Lorem ipsum dolor sit amet",
     "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
     "imageName": "promo-banner-4.jpg",
-    "createDate": new Date(2019,07,01),
-    "tags" : "Fashion, ECommerce, Cloths",
-    "Category" : "Sports"
+    "createDate": "01/07/2019",
+    "tags": "Fashion, ECommerce, Cloths",
+    "Category": "Sports"
   },
   {
     "id": 5,
     "title": "Lorem ipsum dolor sit amet",
     "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
     "imageName": "promo-banner-5.jpg",
-    "createDate": new Date(2019,06,01),
-    "tags" : "Fashion, ECommerce, Cloths",
-    "Category" : "Men"
+    "createDate": "01/06/2019",
+    "tags": "Fashion, ECommerce, Cloths",
+    "Category": "Men"
   },
   {
     "id": 6,
     "title": "Lorem ipsum dolor sit amet",
     "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
     "imageName": "promo-banner-1.jpg",
-    "createDate":new Date(2019,06,04),
-    "tags" : "Fashion, ECommerce, Cloths",
-    "Category" : "Electronics"
+    "createDate": "01/04/2019",
+    "tags": "Fashion, ECommerce, Cloths",
+    "Category": "Electronics"
   },
   {
     "id": 7,
     "title": "Lorem ipsum dolor sit amet",
     "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
     "imageName": "promo-banner-2.jpg",
-    "createDate": new Date(2019,07,12),
-    "tags" : "Fashion, ECommerce, Cloths",
-    "Category" : "Kids"
+    "createDate": "12/07/2019",
+    "tags": "Fashion, ECommerce, Cloths",
+    "Category": "Kids"
   },
   {
     "id": 8,
     "title": "Lorem ipsum dolor sit amet",
     "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
     "imageName": "promo-banner-3.jpg",
-    "createDate": new Date(2019,08,09),
-    "tags" : "Fashion, ECommerce, Cloths",
-    "Category" : "Women"
+    "createDate": "01/05/2019",
+    "tags": "Fashion, ECommerce, Cloths",
+    "Category": "Women"
   }
 ];

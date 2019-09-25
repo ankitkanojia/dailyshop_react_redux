@@ -1,5 +1,5 @@
 import { FETCH_MENU, FETCH_PRODUCTS, FETCH_STATICBLOGS, FETCH_STATICTESTIMONIALS, FETCH_STATICSLIDER } from './../ActionTypes';
-import { Blogs, Testimonials, SliderDetails, Menus, ProductCatalog } from './../../Constants/Common';
+import { BlogDetails, Testimonials, SliderDetails, Menus, ProductCatalog } from './../../Constants/Common';
 
 export const fetchMenu = () => dispatch => {
   return dispatch({
@@ -18,7 +18,7 @@ export const fetchProducts = () => dispatch => {
 export const fetchBlogs = () => dispatch => {
   return dispatch({
     type: FETCH_STATICBLOGS,
-    payload: Blogs
+    payload: BlogDetails
   });
 };
 
