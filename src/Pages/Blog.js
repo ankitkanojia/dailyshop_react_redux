@@ -9,6 +9,8 @@ class Blog extends Component {
     }
 
     render() {
+        const categories = this.props.blogs.map(obj => obj.Category);
+
         return (
             <React.Fragment>
                 <section id="aa-catg-head-banner">
@@ -81,11 +83,8 @@ class Blog extends Component {
                                                 <div class="aa-sidebar-widget">
                                                     <h3>Category</h3>
                                                     <ul class="aa-catg-nav">
-                                                        <li><a href="#">Men</a></li>
-                                                        <li><a href="">Women</a></li>
-                                                        <li><a href="">Kids</a></li>
-                                                        <li><a href="">Electornics</a></li>
-                                                        <li><a href="">Sports</a></li>
+                                                        {[...new Set(categories)].map((item, index) => <li key={index}><a href="#">{item}</a></li>
+                                                        )}
                                                     </ul>
                                                 </div>
                                                 <div class="aa-sidebar-widget">
