@@ -9,6 +9,7 @@ import Blog from '../Pages/Blog';
 import BlogDetail from '../Pages/BlogDetail';
 import Registration from '../Pages/Registration';
 import Page404 from '../Pages/Page404';
+import Contact from '../Pages/Contact';
 
 const Main = () => (
         <Switch>
@@ -21,6 +22,7 @@ const Main = () => (
             <Route exact path='/blogdetail' component={BlogDetail} />
             <Route exact path='/signup' component={Registration} />
             <Route exact path='/page404' component={Page404} />
+            <Route exact path='/contact' component={Contact} />
         </Switch>
 )
 

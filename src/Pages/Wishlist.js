@@ -57,7 +57,7 @@ class Wishlist extends Component {
                     </div>
                 </div>
             </section>
-            <section id="cart-view">
+            <section id="cart-view"  style={{marginBottom : 50}}>
                 <div className="container">
                     <div className="row">
                         <div className="col-md-12">

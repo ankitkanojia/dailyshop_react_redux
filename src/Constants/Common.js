@@ -496,7 +496,7 @@ export const Menus =   [
   },
   {
     "title": "Contact",
-    "url": "/products",
+    "url": "/contact",
     "id": 9,
     "orderno": 9,
     "parentid": 0,
