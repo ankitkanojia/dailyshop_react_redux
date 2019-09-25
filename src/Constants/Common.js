@@ -501,36 +501,6 @@ export const Menus =   [
     "orderno": 9,
     "parentid": 0,
     "submenu": []
-  },
-  {
-    "title": "Pages ",
-    "url": "/products",
-    "id": 10,
-    "orderno": 10,
-    "parentid": 0,
-    "submenu": [
-      {
-        "title": "Shop Page",
-        "url": "/products",
-        "id": 65,
-        "orderno": 0,
-        "parentid": 10
-      },
-      {
-        "title": "Shop Single",
-        "url": "/products",
-        "id": 66,
-        "orderno": 0,
-        "parentid": 10
-      },
-      {
-        "title": "404 Page",
-        "url": "/products",
-        "id": 67,
-        "orderno": 0,
-        "parentid": 10
-      }
-    ]
   }
 ];
 
@@ -1695,5 +1665,81 @@ export const SliderDetails = [
     "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, illum.",
     "imageUrl": "Content/img/slider/5.jpg",
     "id": 5
+  }
+];
+
+
+export const BlogDetails = [
+  {
+    "id": 1,
+    "title": "Lorem ipsum dolor sit amet",
+    "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
+    "imageName": "promo-banner-1.jpg",
+    "createDate": new Date(2019,08,03),
+    "tags" : "Fashion, ECommerce, Cloths",
+    "Category" : "Men"
+  },
+  {
+    "id": 2,
+    "title": "Lorem ipsum dolor sit amet",
+    "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
+    "imageName": "promo-banner-2.jpg",
+    "createDate": new Date(2019,08,01),
+    "tags" : "Fashion, ECommerce, Cloths",
+    "Category" : "Men"
+  },
+  {
+    "id": 3,
+    "title": "Lorem ipsum dolor sit amet",
+    "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
+    "imageName": "promo-banner-3.jpg",
+    "createDate": new Date(2019,08,05),
+    "tags" : "Fashion, ECommerce, Cloths",
+    "Category" : "Women"
+  },
+  {
+    "id": 4,
+    "title": "Lorem ipsum dolor sit amet",
+    "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
+    "imageName": "promo-banner-4.jpg",
+    "createDate": new Date(2019,07,01),
+    "tags" : "Fashion, ECommerce, Cloths",
+    "Category" : "Sports"
+  },
+  {
+    "id": 5,
+    "title": "Lorem ipsum dolor sit amet",
+    "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
+    "imageName": "promo-banner-5.jpg",
+    "createDate": new Date(2019,06,01),
+    "tags" : "Fashion, ECommerce, Cloths",
+    "Category" : "Men"
+  },
+  {
+    "id": 6,
+    "title": "Lorem ipsum dolor sit amet",
+    "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
+    "imageName": "promo-banner-1.jpg",
+    "createDate":new Date(2019,06,04),
+    "tags" : "Fashion, ECommerce, Cloths",
+    "Category" : "Electronics"
+  },
+  {
+    "id": 7,
+    "title": "Lorem ipsum dolor sit amet",
+    "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
+    "imageName": "promo-banner-2.jpg",
+    "createDate": new Date(2019,07,12),
+    "tags" : "Fashion, ECommerce, Cloths",
+    "Category" : "Kids"
+  },
+  {
+    "id": 8,
+    "title": "Lorem ipsum dolor sit amet",
+    "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
+    "imageName": "promo-banner-3.jpg",
+    "createDate": new Date(2019,08,09),
+    "tags" : "Fashion, ECommerce, Cloths",
+    "Category" : "Women"
   }
 ];
