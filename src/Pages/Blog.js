@@ -1,7 +1,13 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
+import { connect } from 'react-redux';
+import PropTypes from 'prop-types';
 
 class Blog extends Component {
+    static propTypes = {
+        blogs: PropTypes.array.isRequired
+    }
+
     render() {
         return (
             <React.Fragment>
@@ -28,153 +34,26 @@ class Blog extends Component {
                                         <div class="col-md-9">
                                             <div class="aa-blog-content">
                                                 <div class="row">
-                                                    <div class="col-md-4 col-sm-4">
-                                                        <article class="aa-latest-blog-single">
-                                                            <figure class="aa-blog-img">
-                                                                <Link to={{ pathname: '/blogdetail' }}><img alt="img" src="content/img/promo-banner-1.jpg" /></Link>
-                                                                <figcaption class="aa-blog-img-caption">
-                                                                    <span href="#"><i class="fa fa-eye"></i>5K</span>
-                                                                    <a href="#"><i class="fa fa-thumbs-o-up"></i>426</a>
-                                                                    <a href="#"><i class="fa fa-comment-o"></i>20</a>
-                                                                    <span href="#"><i class="fa fa-clock-o"></i>June 26, 2016</span>
-                                                                </figcaption>
-                                                            </figure>
-                                                            <div class="aa-blog-info">
-                                                                <h3 class="aa-blog-title"><Link to={{ pathname: '/blogdetail' }}>Lorem ipsum dolor sit amet</Link></h3>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.</p>
-                                                                <a class="aa-read-mor-btn" href="#">Read more <span class="fa fa-long-arrow-right"></span></a>
-                                                            </div>
-                                                        </article>
-                                                    </div>
-                                                    <div class="col-md-4 col-sm-4">
-                                                        <article class="aa-latest-blog-single">
-                                                            <figure class="aa-blog-img">
-                                                                <a href="#"><img alt="img" src="content/img/promo-banner-2.jpg" /></a>
-                                                                <figcaption class="aa-blog-img-caption">
-                                                                    <span href="#"><i class="fa fa-eye"></i>5K</span>
-                                                                    <a href="#"><i class="fa fa-thumbs-o-up"></i>426</a>
-                                                                    <a href="#"><i class="fa fa-comment-o"></i>20</a>
-                                                                    <span href="#"><i class="fa fa-clock-o"></i>June 26, 2016</span>
-                                                                </figcaption>
-                                                            </figure>
-                                                            <div class="aa-blog-info">
-                                                                <h3 class="aa-blog-title"><a href="#">Lorem ipsum dolor sit amet</a></h3>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.</p>
-                                                                <a class="aa-read-mor-btn" href="#">Read more <span class="fa fa-long-arrow-right"></span></a>
-                                                            </div>
-                                                        </article>
-                                                    </div>
-                                                    <div class="col-md-4 col-sm-4">
-                                                        <article class="aa-latest-blog-single">
-                                                            <figure class="aa-blog-img">
-                                                                <a href="#"><img alt="img" src="content/img/promo-banner-3.jpg" /></a>
-                                                                <figcaption class="aa-blog-img-caption">
-                                                                    <span href="#"><i class="fa fa-eye"></i>5K</span>
-                                                                    <a href="#"><i class="fa fa-thumbs-o-up"></i>426</a>
-                                                                    <a href="#"><i class="fa fa-comment-o"></i>20</a>
-                                                                    <span href="#"><i class="fa fa-clock-o"></i>June 26, 2016</span>
-                                                                </figcaption>
-                                                            </figure>
-                                                            <div class="aa-blog-info">
-                                                                <h3 class="aa-blog-title"><a href="#">Lorem ipsum dolor sit amet</a></h3>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.</p>
-                                                                <a class="aa-read-mor-btn" href="#">Read more <span class="fa fa-long-arrow-right"></span></a>
-                                                            </div>
-                                                        </article>
-                                                    </div>
-                                                    <div class="col-md-4 col-sm-4">
-                                                        <article class="aa-latest-blog-single">
-                                                            <figure class="aa-blog-img">
-                                                                <a href="#"><img alt="img" src="content/img/promo-banner-4.jpg" /></a>
-                                                                <figcaption class="aa-blog-img-caption">
-                                                                    <span href="#"><i class="fa fa-eye"></i>5K</span>
-                                                                    <a href="#"><i class="fa fa-thumbs-o-up"></i>426</a>
-                                                                    <a href="#"><i class="fa fa-comment-o"></i>20</a>
-                                                                    <span href="#"><i class="fa fa-clock-o"></i>June 26, 2016</span>
-                                                                </figcaption>
-                                                            </figure>
-                                                            <div class="aa-blog-info">
-                                                                <h3 class="aa-blog-title"><a href="#">Lorem ipsum dolor sit amet</a></h3>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.</p>
-                                                                <a class="aa-read-mor-btn" href="#">Read more <span class="fa fa-long-arrow-right"></span></a>
-                                                            </div>
-                                                        </article>
-                                                    </div>
-                                                    <div class="col-md-4 col-sm-4">
-                                                        <article class="aa-latest-blog-single">
-                                                            <figure class="aa-blog-img">
-                                                                <a href="#"><img alt="img" src="content/img/promo-banner-5.jpg" /></a>
-                                                                <figcaption class="aa-blog-img-caption">
-                                                                    <span href="#"><i class="fa fa-eye"></i>5K</span>
-                                                                    <a href="#"><i class="fa fa-thumbs-o-up"></i>426</a>
-                                                                    <a href="#"><i class="fa fa-comment-o"></i>20</a>
-                                                                    <span href="#"><i class="fa fa-clock-o"></i>June 26, 2016</span>
-                                                                </figcaption>
-                                                            </figure>
-                                                            <div class="aa-blog-info">
-                                                                <h3 class="aa-blog-title"><a href="#">Lorem ipsum dolor sit amet</a></h3>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.</p>
-                                                                <a class="aa-read-mor-btn" href="#">Read more <span class="fa fa-long-arrow-right"></span></a>
-                                                            </div>
-                                                        </article>
-                                                    </div>
-                                                    <div class="col-md-4 col-sm-4">
-                                                        <article class="aa-latest-blog-single">
-                                                            <figure class="aa-blog-img">
-                                                                <a href="#"><img alt="img" src="content/img/promo-banner-1.jpg" /></a>
-                                                                <figcaption class="aa-blog-img-caption">
-                                                                    <span href="#"><i class="fa fa-eye"></i>5K</span>
-                                                                    <a href="#"><i class="fa fa-thumbs-o-up"></i>426</a>
-                                                                    <a href="#"><i class="fa fa-comment-o"></i>20</a>
-                                                                    <span href="#"><i class="fa fa-clock-o"></i>June 26, 2016</span>
-                                                                </figcaption>
-                                                            </figure>
-                                                            <div class="aa-blog-info">
-                                                                <h3 class="aa-blog-title"><a href="#">Lorem ipsum dolor sit amet</a></h3>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.</p>
-                                                                <a class="aa-read-mor-btn" href="#">Read more <span class="fa fa-long-arrow-right"></span></a>
-                                                            </div>
-                                                        </article>
-                                                    </div>
-                                                    <div class="col-md-4 col-sm-4">
-                                                        <article class="aa-latest-blog-single">
-                                                            <figure class="aa-blog-img">
-                                                                <a href="#"><img alt="img" src="content/img/promo-banner-2.jpg" /></a>
-                                                                <figcaption class="aa-blog-img-caption">
-                                                                    <span href="#"><i class="fa fa-eye"></i>5K</span>
-                                                                    <a href="#"><i class="fa fa-thumbs-o-up"></i>426</a>
-                                                                    <a href="#"><i class="fa fa-comment-o"></i>20</a>
-                                                                    <span href="#"><i class="fa fa-clock-o"></i>June 26, 2016</span>
-                                                                </figcaption>
-                                                            </figure>
-                                                            <div class="aa-blog-info">
-                                                                <h3 class="aa-blog-title"><a href="#">Lorem ipsum dolor sit amet</a></h3>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.</p>
-                                                                <a class="aa-read-mor-btn" href="#">Read more <span class="fa fa-long-arrow-right"></span></a>
-                                                            </div>
-                                                        </article>
-                                                    </div>
-                                                    <div class="col-md-4 col-sm-4">
-                                                        <article class="aa-latest-blog-single">
-                                                            <figure class="aa-blog-img">
-                                                                <a href="#"><img alt="img" src="content/img/promo-banner-3.jpg" /></a>
-                                                                <figcaption class="aa-blog-img-caption">
-                                                                    <span href="#"><i class="fa fa-eye"></i>5K</span>
-                                                                    <a href="#"><i class="fa fa-thumbs-o-up"></i>426</a>
-                                                                    <a href="#"><i class="fa fa-comment-o"></i>20</a>
-                                                                    <span href="#"><i class="fa fa-clock-o"></i>June 26, 2016</span>
-                                                                </figcaption>
-                                                            </figure>
-                                                            <div class="aa-blog-info">
-                                                                <h3 class="aa-blog-title"><a href="#">Lorem ipsum dolor sit amet</a></h3>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.</p>
-                                                                <a class="aa-read-mor-btn" href="#">Read more <span class="fa fa-long-arrow-right"></span></a>
-                                                            </div>
-                                                        </article>
-                                                    </div>
+                                                    {this.props.blogs.map(p => {
+                                                         return (
+                                                        <div class="col-md-4 col-sm-4" key={p.id}>
+                                                            <article class="aa-latest-blog-single">
+                                                                <figure class="aa-blog-img">
+                                                                    <Link to={{ pathname: '/blogdetail' }}><img alt="img" src={"Content/img/" + p.imageName} /></Link>
+                                                                    <figcaption class="aa-blog-img-caption">
+                                                                        <span href="#"><i class="fa fa-clock-o"></i>{new Date(p.createDate).toLocaleString("en-US", { year: 'numeric', month: 'short', day: 'numeric' })}</span>
+                                                                    </figcaption>
+                                                                </figure>
+                                                                <div class="aa-blog-info">
+                                                                    <h3 class="aa-blog-title"><Link to={{ pathname: '/blogdetail' }}>{p.title}</Link></h3>
+                                                                    <p>{p.decription}</p>
+                                                                    <a class="aa-read-mor-btn" href="#">Read more <span class="fa fa-long-arrow-right"></span></a>
+                                                                </div>
+                                                            </article>
+                                                        </div>)
+                                                    })}
                                                 </div>
                                             </div>
-
                                             <div class="aa-blog-archive-pagination">
                                                 <nav>
                                                     <ul class="pagination">
@@ -252,7 +131,6 @@ class Blog extends Component {
                                             </aside>
                                         </div>
                                     </div>
-
                                 </div>
                             </div>
                         </div>
@@ -263,4 +141,8 @@ class Blog extends Component {
     }
 }
 
-export default Blog;
+const mapStateToProps = state => ({
+    blogs: state.staticitems.blogs
+});
+
+export default connect(mapStateToProps, null)(Blog);
