@@ -10,7 +10,14 @@ class Blog extends Component {
 
     render() {
         const categories = this.props.blogs.map(obj => obj.Category);
-
+        let tagsCollection = [] ;
+        this.props.blogs.filter(obj => {
+            const splitString = obj.tags.split(",");
+            splitString.filter(innerObj => {
+                 tagsCollection.push(innerObj);
+            });
+        });
+       
         return (
             <React.Fragment>
                 <section id="aa-catg-head-banner">
@@ -83,20 +90,13 @@ class Blog extends Component {
                                                 <div class="aa-sidebar-widget">
                                                     <h3>Category</h3>
                                                     <ul class="aa-catg-nav">
-                                                        {[...new Set(categories)].map((item, index) => <li key={index}><a href="#">{item}</a></li>
-                                                        )}
+                                                        {[...new Set(categories)].map((item, index) => <li key={index}><a href="#">{item}</a></li>)}
                                                     </ul>
                                                 </div>
                                                 <div class="aa-sidebar-widget">
                                                     <h3>Tags</h3>
                                                     <div class="tag-cloud">
-                                                        <a href="#">Fashion</a>
-                                                        <a href="#">Ecommerce</a>
-                                                        <a href="#">Shop</a>
-                                                        <a href="#">Hand Bag</a>
-                                                        <a href="#">Laptop</a>
-                                                        <a href="#">Head Phone</a>
-                                                        <a href="#">Pen Drive</a>
+                                                        {[...new Set(tagsCollection)].map((item, index) => <a key={index} href="#">{item}</a>)}
                                                     </div>
                                                 </div>
                                                 <div class="aa-sidebar-widget">
