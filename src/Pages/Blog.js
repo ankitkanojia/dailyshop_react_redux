@@ -12,7 +12,8 @@ class Blog extends Component {
         blogs : this.props.blogs,
         allblogs : this.props.blogs,
         categories : [],
-        tagsCollection : []
+        tagsCollection : [],
+        recentblogs : []
     }
 
     componentDidMount(){
@@ -27,9 +28,15 @@ class Blog extends Component {
             });
         });
 
+        const recentblogs = this.state.blogs.sort((a,b) => {
+            return new Date(a.createDate).getTime() - 
+                new Date(b.createDate).getTime()
+        }).reverse().slice(0, 3);
+
         this.setState({
             categories :  this.state.blogs.map(obj => obj.category),
-            tagsCollection : tagsCollection
+            tagsCollection : tagsCollection,
+            recentblogs : recentblogs
         });
     }
 
@@ -149,27 +156,17 @@ class Blog extends Component {
                                                     <h3>Recent Post</h3>
                                                     <div className="aa-recently-views">
                                                         <ul>
-                                                            <li>
-                                                                <a className="aa-cartbox-img" href="#"><img src="content/img/woman-small-2.jpg" alt="img" /></a>
-                                                                <div className="aa-cartbox-info">
-                                                                    <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
-                                                                    <p>March 26th 2016</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <a className="aa-cartbox-img" href="#"><img src="content/img/woman-small-1.jpg" alt="img" /></a>
-                                                                <div className="aa-cartbox-info">
-                                                                    <h4><a href="#">Lorem ipsum dolor.</a></h4>
-                                                                    <p>March 26th 2016</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <a className="aa-cartbox-img" href="#"><img src="content/img/woman-small-2.jpg" alt="img" /></a>
-                                                                <div className="aa-cartbox-info">
-                                                                    <h4><a href="#">Lorem ipsum dolor.</a></h4>
-                                                                    <p>March 26th 2016</p>
-                                                                </div>
-                                                            </li>
+                                                            {this.state.recentblogs.map((data, index) => {
+                                                                return (
+                                                                    <li key={index}>
+                                                                        <a className="aa-cartbox-img" href="#"><img src={"content/img/" + data.imageName } alt="img" /></a>
+                                                                        <div className="aa-cartbox-info">
+                                                                            <h4><a href="#">{data.title}</a></h4>
+                                                                            <p>{new Date(data.createDate).toLocaleString("en-US", { year: 'numeric', month: 'short', day: 'numeric' })}</p>
+                                                                        </div>
+                                                                    </li>)
+                                                            }
+                                                            )}
                                                         </ul>
                                                     </div>
                                                 </div>
