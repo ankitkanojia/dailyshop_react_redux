@@ -1,9 +1,19 @@
 import React, { Component } from 'react';
 
 class BlogDetail extends Component {
-    render() {
-        const { blog } = this.props.location.state
 
+    filterByCategory = (categoryName) => {
+        console.log(categoryName.trim());
+    }
+
+    filterByTag = (tagName) => {
+        console.log(tagName.trim());
+    }
+
+    render() {
+
+        const { blog, tagsCollection, recentblogs, categories } = this.props.location.state
+        
         return (
             <React.Fragment>
                 <section id="aa-blog-archive">
@@ -57,50 +67,31 @@ class BlogDetail extends Component {
                                                 <div className="aa-sidebar-widget">
                                                     <h3>Category</h3>
                                                     <ul className="aa-catg-nav">
-                                                        <li><a href="#">Men</a></li>
-                                                        <li><a href="">Women</a></li>
-                                                        <li><a href="">Kids</a></li>
-                                                        <li><a href="">Electornics</a></li>
-                                                        <li><a href="">Sports</a></li>
+                                                    <li onClick={() => this.filterByCategory('All')} key={0}><a href="javascript:void(0)">All Category</a></li>
+                                                        {[...new Set(categories)].map((item, index) => <li onClick={() => this.filterByCategory(item)} key={index + 1}><a href="javascript:void(0)">{item}</a></li>)}
                                                     </ul>
                                                 </div>
                                                 <div className="aa-sidebar-widget">
                                                     <h3>Tags</h3>
                                                     <div className="tag-cloud">
-                                                        <a href="#">Fashion</a>
-                                                        <a href="#">Ecommerce</a>
-                                                        <a href="#">Shop</a>
-                                                        <a href="#">Hand Bag</a>
-                                                        <a href="#">Laptop</a>
-                                                        <a href="#">Head Phone</a>
-                                                        <a href="#">Pen Drive</a>
+                                                        <a onClick={() => this.filterByTag('All')} href="javascript:void(0)">All</a>
+                                                        {[...new Set(tagsCollection)].map((item, index) => <a onClick={() => this.filterByTag(item)} key={index + 1} href="javascript:void(0)">{item}</a>)}
                                                     </div>
                                                 </div>
                                                 <div className="aa-sidebar-widget">
                                                     <h3>Recent Post</h3>
                                                     <div className="aa-recently-views">
                                                         <ul>
-                                                            <li>
-                                                                <a className="aa-cartbox-img" href="#"><img src="content/img/woman-small-2.jpg" alt="img" /></a>
-                                                                <div className="aa-cartbox-info">
-                                                                    <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
-                                                                    <p>March 26th 2016</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <a className="aa-cartbox-img" href="#"><img src="content/img/woman-small-1.jpg" alt="img" /></a>
-                                                                <div className="aa-cartbox-info">
-                                                                    <h4><a href="#">Lorem ipsum dolor.</a></h4>
-                                                                    <p>March 26th 2016</p>
-                                                                </div>
-                                                            </li>
-                                                            <li>
-                                                                <a className="aa-cartbox-img" href="#"><img src="content/img/woman-small-2.jpg" alt="img" /></a>
-                                                                <div className="aa-cartbox-info">
-                                                                    <h4><a href="#">Lorem ipsum dolor.</a></h4>
-                                                                    <p>March 26th 2016</p>
-                                                                </div>
-                                                            </li>
+                                                            {recentblogs.map((data, index) => {
+                                                                return (
+                                                                    <li key={index}>
+                                                                        <a className="aa-cartbox-img" href="#"><img src={"content/img/" + data.imageName} alt="img" /></a>
+                                                                        <div className="aa-cartbox-info">
+                                                                            <h4><a href="#">{data.title}</a></h4>
+                                                                            <p>{new Date(data.createDate).toLocaleString("en-US", { year: 'numeric', month: 'short', day: 'numeric' })}</p>
+                                                                        </div>
+                                                                    </li>)
+                                                            })}
                                                         </ul>
                                                     </div>
                                                 </div>

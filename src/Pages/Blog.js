@@ -99,7 +99,7 @@ class Blog extends Component {
                                                         <div className="col-md-4 col-sm-4" key={p.id}>
                                                             <article className="aa-latest-blog-single">
                                                                 <figure className="aa-blog-img">
-                                                                    <Link to={{ pathname: '/blogdetail' , state: { blog: p }  }}><img alt="img" src={"Content/img/" + p.imageName} /></Link>
+                                                                    <Link to={{ pathname: '/blogdetail' , state: { blog: p , categories : this.state.categories , tagsCollection : this.state.tagsCollection , recentblogs : this.state.recentblogs }   }}><img alt="img" src={"Content/img/" + p.imageName} /></Link>
                                                                     <figcaption className="aa-blog-img-caption">
                                                                         <span href="#"><i className="fa fa-clock-o"></i>{new Date(p.createDate).toLocaleString("en-US", { year: 'numeric', month: 'short', day: 'numeric' })}</span>
                                                                     </figcaption>
