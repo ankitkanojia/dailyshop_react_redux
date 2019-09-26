@@ -8,16 +8,43 @@ class Blog extends Component {
         blogs: PropTypes.array.isRequired
     }
 
-    render() {
-        const categories = this.props.blogs.map(obj => obj.Category);
+    state =  {
+        blogs : this.props.blogs,
+        allblogs : this.props.blogs,
+        categories : [],
+        tagsCollection : []
+    }
+
+    componentDidMount(){
         let tagsCollection = [] ;
-        this.props.blogs.filter(obj => {
+
+        this.state.blogs.filter(obj => {
             const splitString = obj.tags.split(",");
             splitString.filter(innerObj => {
                  tagsCollection.push(innerObj);
             });
         });
-       
+
+        this.setState({
+            categories :  this.state.blogs.map(obj => obj.Category),
+            tagsCollection : tagsCollection
+        });
+    }
+
+    filterByCategory = (categoryName) => {
+        if (categoryName === "All") {
+            this.setState({
+                blogs: this.state.allblogs
+            });
+        } else {
+            const filteredBlogs = this.state.allblogs.filter(m => m.Category.indexOf(categoryName) !== -1);
+            this.setState({
+                blogs: filteredBlogs
+            });
+        }
+    }
+
+    render() {
         return (
             <React.Fragment>
                 <section id="aa-catg-head-banner">
@@ -43,7 +70,7 @@ class Blog extends Component {
                                         <div class="col-md-9">
                                             <div class="aa-blog-content">
                                                 <div class="row">
-                                                    {this.props.blogs.map(p => {
+                                                    {this.state.blogs.map(p => {
                                                          return (
                                                         <div class="col-md-4 col-sm-4" key={p.id}>
                                                             <article class="aa-latest-blog-single">
@@ -90,13 +117,14 @@ class Blog extends Component {
                                                 <div class="aa-sidebar-widget">
                                                     <h3>Category</h3>
                                                     <ul class="aa-catg-nav">
-                                                        {[...new Set(categories)].map((item, index) => <li key={index}><a href="#">{item}</a></li>)}
+                                                        <li onClick={() => this.filterByCategory('All')} key={0}><a href="javascript:void(0)">All Category</a></li>
+                                                        {[...new Set(this.state.categories)].map((item, index) => <li onClick={() => this.filterByCategory(item)} key={index + 1}><a href="javascript:void(0)">{item}</a></li>)}
                                                     </ul>
                                                 </div>
                                                 <div class="aa-sidebar-widget">
                                                     <h3>Tags</h3>
                                                     <div class="tag-cloud">
-                                                        {[...new Set(tagsCollection)].map((item, index) => <a key={index} href="#">{item}</a>)}
+                                                        {[...new Set(this.state.tagsCollection)].map((item, index) => <a key={index} href="#">{item}</a>)}
                                                     </div>
                                                 </div>
                                                 <div class="aa-sidebar-widget">
