@@ -28,7 +28,7 @@ class Blog extends Component {
         });
 
         this.setState({
-            categories :  this.state.blogs.map(obj => obj.Category),
+            categories :  this.state.blogs.map(obj => obj.category),
             tagsCollection : tagsCollection
         });
     }
@@ -39,7 +39,7 @@ class Blog extends Component {
                 blogs: this.state.allblogs
             });
         } else {
-            const filteredBlogs = this.state.allblogs.filter(m => m.Category.indexOf(categoryName) !== -1);
+            const filteredBlogs = this.state.allblogs.filter(m => m.category.indexOf(categoryName) !== -1);
             this.setState({
                 blogs: filteredBlogs
             });

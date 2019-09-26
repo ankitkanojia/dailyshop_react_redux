@@ -19,14 +19,14 @@ class BlogDetail extends Component {
                                                     <h2><a href="#">{blog.title}</a></h2>
                                                     <div className="aa-article-bottom">
                                                         <div className="aa-post-author">
-                                                            Posted By <a href="#">Jackson</a>
+                                                            Posted By <a href="javascript:void(0)">{blog.postedBy}</a>
                                                         </div>
                                                         <div className="aa-post-date">
-                                                            March 26th 2016
-                      </div>
+                                                            {new Date(blog.createDate).toLocaleString("en-US", { year: 'numeric', month: 'short', day: 'numeric' })}
+                                                        </div>
                                                     </div>
                                                     <figure className="aa-blog-img">
-                                                        <a href="#"><img src={"content/img/" + blog.imageName} alt="fashion img" /></a>
+                                                        <a href="#"><img src={"content/img/fashion/1.jpg"} alt="fashion img" /></a>
                                                     </figure>
                                                     <p>{blog.decription}</p>
                                                     <div className="blog-single-bottom">

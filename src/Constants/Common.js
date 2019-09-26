@@ -1644,7 +1644,8 @@ export const BlogDetails = [
     "imageName": "promo-banner-1.jpg",
     "createDate": "03/08/2019",
     "tags": "Fashion, Cloths",
-    "Category": "Men"
+    "category": "Men",
+    "postedBy": "Manoj Kele"
   },
   {
     "id": 2,
@@ -1653,7 +1654,8 @@ export const BlogDetails = [
     "imageName": "promo-banner-2.jpg",
     "createDate": "01/08/2019",
     "tags": "Fashion, ECommerce",
-    "Category": "Men"
+    "category": "Men",
+    "postedBy": "Minhaj Kanojia"
   },
   {
     "id": 3,
@@ -1662,7 +1664,8 @@ export const BlogDetails = [
     "imageName": "promo-banner-3.jpg",
     "createDate": "05/08/2019",
     "tags": "Fashion",
-    "Category": "Women"
+    "category": "Women",
+    "postedBy": "Param patel"
   },
   {
     "id": 4,
@@ -1671,7 +1674,8 @@ export const BlogDetails = [
     "imageName": "promo-banner-4.jpg",
     "createDate": "01/07/2019",
     "tags": "Fashion,  Cloths",
-    "Category": "Sports"
+    "category": "Sports",
+    "postedBy": "Kanha Kanojia"
   },
   {
     "id": 5,
@@ -1680,7 +1684,8 @@ export const BlogDetails = [
     "imageName": "promo-banner-5.jpg",
     "createDate": "01/06/2019",
     "tags": "ECommerce, Cloths",
-    "Category": "Men"
+    "category": "Men",
+    "postedBy": "Ankit Kanojia"
   },
   {
     "id": 6,
@@ -1689,7 +1694,8 @@ export const BlogDetails = [
     "imageName": "promo-banner-1.jpg",
     "createDate": "01/04/2019",
     "tags": "Electronics",
-    "Category": "Electronics"
+    "category": "Electronics",
+    "postedBy": "Kush shah"
   },
   {
     "id": 7,
@@ -1698,7 +1704,8 @@ export const BlogDetails = [
     "imageName": "promo-banner-2.jpg",
     "createDate": "12/07/2019",
     "tags": "Fashion, Cloths",
-    "Category": "Kids"
+    "category": "Kids",
+    "postedBy": "Shahrukh kh"
   },
   {
     "id": 8,
@@ -1707,6 +1714,7 @@ export const BlogDetails = [
     "imageName": "promo-banner-3.jpg",
     "createDate": "01/05/2019",
     "tags": "Fashion, ECommerce, Cloths",
-    "Category": "Women"
+    "category": "Women",
+    "postedBy": "Ajay Dev"
   }
 ];
