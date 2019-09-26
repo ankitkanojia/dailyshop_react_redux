@@ -34,9 +34,7 @@ class BlogDetail extends Component {
                                                             <div className="col-md-8 col-sm-6 col-xs-12">
                                                                 <div className="blog-single-tag">
                                                                     <span>Tags:</span>
-                                                                    <a href="#">Fashion,</a>
-                                                                    <a href="#">Beauty,</a>
-                                                                    <a href="#">Lifestyle</a>
+                                                                    <a href="#">{blog.tags}</a>
                                                                 </div>
                                                             </div>
                                                             <div className="col-md-4 col-sm-6 col-xs-12">
