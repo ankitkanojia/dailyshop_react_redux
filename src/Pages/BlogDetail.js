@@ -39,10 +39,10 @@ class BlogDetail extends Component {
                                                             </div>
                                                             <div className="col-md-4 col-sm-6 col-xs-12">
                                                                 <div className="blog-single-social">
-                                                                    <a href="#"><i className="fa fa-facebook"></i></a>
-                                                                    <a href="#"><i className="fa fa-twitter"></i></a>
-                                                                    <a href="#"><i className="fa fa-linkedin"></i></a>
-                                                                    <a href="#"><i className="fa fa-google-plus"></i></a>
+                                                                    <a href="https://www.facebook.com"><i className="fa fa-facebook"></i></a>
+                                                                    <a href="https://twitter.com/login"><i className="fa fa-twitter"></i></a>
+                                                                    <a href="https://www.linkedin.com"><i className="fa fa-linkedin"></i></a>
+                                                                    <a href="https://www.gmail.com"><i className="fa fa-google-plus"></i></a>
                                                                 </div>
                                                             </div>
                                                         </div>
