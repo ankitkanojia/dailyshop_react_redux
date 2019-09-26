@@ -1643,7 +1643,7 @@ export const BlogDetails = [
     "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
     "imageName": "promo-banner-1.jpg",
     "createDate": "03/08/2019",
-    "tags": "Fashion, ECommerce, Cloths",
+    "tags": "Fashion, Cloths",
     "Category": "Men"
   },
   {
@@ -1652,7 +1652,7 @@ export const BlogDetails = [
     "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
     "imageName": "promo-banner-2.jpg",
     "createDate": "01/08/2019",
-    "tags": "Fashion, ECommerce, Cloths",
+    "tags": "Fashion, ECommerce",
     "Category": "Men"
   },
   {
@@ -1661,7 +1661,7 @@ export const BlogDetails = [
     "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
     "imageName": "promo-banner-3.jpg",
     "createDate": "05/08/2019",
-    "tags": "Fashion, ECommerce, Cloths",
+    "tags": "Fashion",
     "Category": "Women"
   },
   {
@@ -1670,7 +1670,7 @@ export const BlogDetails = [
     "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
     "imageName": "promo-banner-4.jpg",
     "createDate": "01/07/2019",
-    "tags": "Fashion, ECommerce, Cloths",
+    "tags": "Fashion,  Cloths",
     "Category": "Sports"
   },
   {
@@ -1679,7 +1679,7 @@ export const BlogDetails = [
     "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
     "imageName": "promo-banner-5.jpg",
     "createDate": "01/06/2019",
-    "tags": "Fashion, ECommerce, Cloths",
+    "tags": "ECommerce, Cloths",
     "Category": "Men"
   },
   {
@@ -1688,7 +1688,7 @@ export const BlogDetails = [
     "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
     "imageName": "promo-banner-1.jpg",
     "createDate": "01/04/2019",
-    "tags": "Fashion, ECommerce, Cloths",
+    "tags": "Electronics",
     "Category": "Electronics"
   },
   {
@@ -1697,7 +1697,7 @@ export const BlogDetails = [
     "decription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, ad? Autem quos natus nisi aperiam, beatae, fugiat odit vel impedit dicta enim repellendus animi. Expedita quas reprehenderit incidunt, voluptates corporis.",
     "imageName": "promo-banner-2.jpg",
     "createDate": "12/07/2019",
-    "tags": "Fashion, ECommerce, Cloths",
+    "tags": "Fashion, Cloths",
     "Category": "Kids"
   },
   {
