@@ -66,8 +66,6 @@ class Blog extends Component {
             });
         }
     }
-
-
     render() {
         return (
             <React.Fragment>
@@ -157,16 +155,16 @@ class Blog extends Component {
                                                     <div className="aa-recently-views">
                                                         <ul>
                                                             {this.state.recentblogs.map((data, index) => {
-                                                                return (
-                                                                    <li key={index}>
-                                                                        <a className="aa-cartbox-img" href="#"><img src={"content/img/" + data.imageName } alt="img" /></a>
-                                                                        <div className="aa-cartbox-info">
-                                                                            <h4><a href="#">{data.title}</a></h4>
-                                                                            <p>{new Date(data.createDate).toLocaleString("en-US", { year: 'numeric', month: 'short', day: 'numeric' })}</p>
-                                                                        </div>
-                                                                    </li>)
-                                                            }
-                                                            )}
+                                                                return (<Link to={{ pathname: '/blogdetail', state: { blog: data, categories: this.state.categories, tagsCollection: this.state.tagsCollection, recentblogs: this.state.recentblogs } }}>
+                                                                        <li key={index}>
+                                                                            <a className="aa-cartbox-img" href="javascript:void(0)"><img src={"content/img/" + data.imageName} alt="img" /></a>
+                                                                            <div className="aa-cartbox-info">
+                                                                                <h4><a href="javascript:void(0)">{data.title}</a></h4>
+                                                                                <p>{new Date(data.createDate).toLocaleString("en-US", { year: 'numeric', month: 'short', day: 'numeric' })}</p>
+                                                                            </div>
+                                                                        </li>
+                                                                    </Link>)
+                                                            })}
                                                         </ul>
                                                     </div>
                                                 </div>
