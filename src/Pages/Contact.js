@@ -59,7 +59,7 @@ class Contact extends Component {
                                                         </div>
 
                                                         <div class="form-group">
-                                                            <textarea class="form-control" rows="3" placeholder="Message"></textarea>
+                                                            <textarea style={{width:'100%'}} class="form-control" rows="3" placeholder="Message"></textarea>
                                                         </div>
                                                         <button class="aa-secondary-btn">Send</button>
                                                     </form>

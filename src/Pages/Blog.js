@@ -2,9 +2,11 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
+import {  fetchBlogs } from './../Redux/Actions/StaticItems';
 
 class Blog extends Component {
     static propTypes = {
+        fetchBlogs: PropTypes.func.isRequired,
         blogs: PropTypes.array.isRequired
     }
 
@@ -17,6 +19,8 @@ class Blog extends Component {
     }
 
     componentDidMount(){
+        this.props.fetchBlogs();
+        
         let tagsCollection = [] ;
 
         this.state.blogs.filter(obj => {
@@ -185,4 +189,4 @@ const mapStateToProps = state => ({
     blogs: state.staticitems.blogs
 });
 
-export default connect(mapStateToProps, null)(Blog);
+export default connect(mapStateToProps, {fetchBlogs})(Blog);
