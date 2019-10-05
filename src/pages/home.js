@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import { fetchProducts, fetchBlogs, fetchTestimonials } from './../Redux/Actions/StaticItems';
+import { fetchProducts, fetchBlogs, fetchTestimonials } from '../Redux/Actions/StaticItems';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
-import { addToCart, addToWishList, removeFromWishList } from './../Redux/Actions/CartProducts';
-import HeaderSlider from './../Containers/HeaderSlider';
+import { addToCart, addToWishList, removeFromWishList } from '../Redux/Actions/CartProducts';
+import HeaderSlider from '../Containers/HeaderSlider';
 import Modal from 'react-awesome-modal';
-import ModalPopup from "./../Components/ModalPopup";
-import { UPDATE_PRODUCTWISHLISTFLAG } from './../Redux/ActionTypes';
+import ModalPopup from "../Components/ModalPopup";
+import { UPDATE_PRODUCTWISHLISTFLAG } from '../Redux/ActionTypes';
 import { Link } from 'react-router-dom';
 
 class Home extends Component {
