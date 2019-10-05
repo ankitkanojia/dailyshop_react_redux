@@ -36,24 +36,24 @@ class Contact extends Component {
                                                         <div class="row">
                                                             <div class="col-md-6">
                                                                 <div class="form-group">
-                                                                    <input type="text" placeholder="Your Name" class="form-control" />
+                                                                    <input type="text" placeholder="Your Name" class="form-control" required />
                                                                 </div>
                                                             </div>
                                                             <div class="col-md-6">
                                                                 <div class="form-group">
-                                                                    <input type="email" placeholder="Email" class="form-control" />
+                                                                    <input type="email" placeholder="Email" class="form-control" required />
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div class="row">
                                                             <div class="col-md-6">
                                                                 <div class="form-group">
-                                                                    <input type="text" placeholder="Subject" class="form-control" />
+                                                                    <input type="text" placeholder="Subject" class="form-control" required />
                                                                 </div>
                                                             </div>
                                                             <div class="col-md-6">
                                                                 <div class="form-group">
-                                                                    <input type="text" placeholder="Company" class="form-control" />
+                                                                    <input type="text" placeholder="Company" class="form-control" required />
                                                                 </div>
                                                             </div>
                                                         </div>
