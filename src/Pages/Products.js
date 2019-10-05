@@ -210,7 +210,7 @@ class Products extends Component {
                         </div>
                     </div>
                 </section>
-                <section id="aa-product-category">
+                <section id="aa-product-category" style={{marginBottom:20}}>
                     <div className="container">
                         <div className="row">
 
@@ -288,7 +288,7 @@ class Products extends Component {
                                 <React.Fragment>
                                     <div className="col-lg-9 col-md-9 col-sm-8 col-md-push-3">
                                         <div className="aa-product-catg-content">
-                                            <h4 className="text-center text-danger">No Product(s) Found....</h4>
+                                            <h4 className="text-center text-danger" style={{fontSize:40}}>No Product(s) Found....</h4>
                                         </div>
                                     </div>
                                 </React.Fragment>
