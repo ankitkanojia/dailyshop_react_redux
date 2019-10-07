@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
-import { fetchMenu } from './../Redux/Actions/StaticItems';
+import { fetchMenu , fetchProducts } from './../Redux/Actions/StaticItems';
 import { reducerProducts } from './../Redux/Actions/Product';
 import { UPDATE_PRODUCTWISHLISTFLAG } from './../Redux/ActionTypes';
 import { Link } from 'react-router-dom';
@@ -342,10 +342,10 @@ class Products extends Component {
 
 const mapStateToProps = state => ({
     menuItems: state.staticitems.menu,
-    products: state.productscontainer.products,
+    products: state.staticitems.products,
     wishListProducts: state.cart.wishListProducts,
     cartProducts: state.cart.cartProducts,
     sortOption: state.filter.sortOption
 });
 
-export default connect(mapStateToProps, { addToCart, addToWishList, removeFromWishList, fetchMenu, reducerProducts })(withRouter(Products));
+export default connect(mapStateToProps, { addToCart, addToWishList, removeFromWishList, fetchMenu, reducerProducts , fetchProducts})(withRouter(Products));

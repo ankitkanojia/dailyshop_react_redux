@@ -109,7 +109,7 @@ class Blog extends Component {
                                                                 <div className="aa-blog-info">
                                                                     <h3 className="aa-blog-title"><Link to={{ pathname: '/blogdetail' }}>{p.title}</Link></h3>
                                                                     <p>{p.decription}</p>
-                                                                    <a className="aa-read-mor-btn" href="#">Read more <span className="fa fa-long-arrow-right"></span></a>
+                                                                    <a className="aa-read-mor-btn" href="javascript:void(0)">Read more <span className="fa fa-long-arrow-right"></span></a>
                                                                 </div>
                                                             </article>
                                                         </div>)
